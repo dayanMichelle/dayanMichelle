@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg](https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg)
 
-- 📫 How to reach me **dayaara6@gmail.com**
+- 📫 How to reach me **dayan.michelle.arango@gmail.com**
 
 - ⚡ Fun fact **I also play violin and paint with watercolor.**
 
