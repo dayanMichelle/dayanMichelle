@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi ✨, I'm Dayan Arango</h1>
+<h1 align="center">Hi ✨, I'm Dayan Arango</h1> [http://www.dayanarango.com/] 💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayanmichelle&label=Profile%20views&color=0e75b6&style=flat" alt="dayanmichelle" /> </p>
 
@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I also play violin and paint with watercolor.**
 
+- You can find me on youtube :<a href="https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg" target="blank">
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dayan-arango-vallejo-495205219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dayan-arango-vallejo-495205219/" height="30" width="40" /></a>
