@@ -4,17 +4,16 @@
 
 <!-- - 🔭 I’m currently working on **Lover books** -->
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **IA**
 
 - 🤝 I support to the community [https://es.stackoverflow.com/users/268318/dayan-michelle?tab=profile](https://es.stackoverflow.com/users/268318/dayan-michelle?tab=profile)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dayanMichelle](https://github.com/dayanMichelle)
 
-- 📝 I regularly write articles on [https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg](https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg)
+- 📝 I regularly write articles on [https://medium.com/@dayan.developer)
 
-- 📫 How to reach me **developer@dayanarango.com**
+- 📫 How to reach me **dayaara6@gmail.com**
 
-- ⚡ Fun fact **I also play violin and paint with watercolor.**
 
 - You can find me on youtube : [https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg](https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg)
 
