@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jhan-carlos-mora-bayer-295230135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhan-carlos-mora-bayer-295230135/" height="30" width="40" /></a>
 <a href="https://medium.com/@dayan.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dayan.developer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnhvl-kyld5ojatpk3gcmbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnhvl-kyld5ojatpk3gcmbg" height="30" width="40" /></a>
+<a href="/http://dayanarango.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://dayanarango.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
