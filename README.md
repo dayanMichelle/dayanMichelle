@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dayaara6@gmail.com**
 
-- 📄 Know about my experiences [https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg](https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg)
+- 📄 Know about my experiences [https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg](https://youtube.com/@dayandeveloper)(https://www.youtube.com/channel/UCNHvl-KyLd5ojatpK3GCmBg)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dayan-arango/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dayan-arango/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18399946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18399946" height="30" width="40" /></a>
 <a href="https://medium.com/@dayan.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dayan.developer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dayandeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dayandeveloper" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dayandeveloper(https://youtube.com/@dayandeveloper)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dayandeveloper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
